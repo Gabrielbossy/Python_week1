@@ -1,0 +1,4 @@
+venv/
+contacts.json
+test.json
+__pycache__/
