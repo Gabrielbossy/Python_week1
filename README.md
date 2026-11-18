@@ -19,3 +19,7 @@ A command-line program that lets you add, view, search, edit and delete contacts
 - Dictionaries
 - Saving data to a JSON file
 - try/except for error handling
+
+## What I learnt
+
+- functions and scope
