@@ -1,8 +1,13 @@
 #Age calculator: ask for birth year, print the age
-from datetime import date
+# from datetime import date
 
-birth_year = int(input("What year were you born? "))
-current_year = date.today().year
-age = current_year - birth_year
+# birth_year = int(input("What year were you born? "))
+# current_year = date.today().year
+# age = current_year - birth_year
 
-print(f"You are about {age} years of age! ")
+# print(f"You are about {age} years of age! ")
+
+
+import time
+
+print(time.asctime(time.localtime(time.time())))
