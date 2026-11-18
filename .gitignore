@@ -2,3 +2,7 @@ venv/
 contacts.json
 test.json
 __pycache__/
+data.json
+thread.cpp
+Vibe coding
+vibe_coding.py
